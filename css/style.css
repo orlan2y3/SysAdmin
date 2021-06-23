@@ -39,7 +39,7 @@ nav .nav-link:hover {
 }
 
 #hero {
-  margin-bottom: 125px;
+  margin-bottom: 180px;
 }
 
 nav .nav-item.active a {
@@ -125,6 +125,9 @@ img#avatar {
 }
 
 /*Projects Styles*/
+.point{
+  color: white;
+}
 #projects {
   margin-top: 15vh;
 }
@@ -336,6 +339,7 @@ img#avatar {
   }
 }
 
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+}
 
 @media (min-width: 1200px) {}
