@@ -290,8 +290,8 @@ img#avatar {
     width: 250px;
   }
 
-  img#avatar:hover {
-    width: 500px;
+  img#avatar:hover {     
+    transform: rotate(25deg);
   }
 
   .hero-btn {
